@@ -1,24 +1,10 @@
-﻿body {
-    padding-top: 50px;
-    padding-bottom: 20px;
+﻿table.sorting tr:not(.home){
+    cursor: pointer;
 }
+/*홈을 제외한 table.sorting 클래스의 tr에 마우스를 가져다대면 포인터로 바뀐다.*/
 
-/* Set padding to keep content from hitting the edges */
-.body-content {
-    padding-left: 15px;
-    padding-right: 15px;
+.ui-state-highlight {
+    border: 1px dashed #c00;
+    background-color : #CCC;
 }
-
-/* Override the default bootstrap behavior where horizontal description lists 
-   will truncate terms that are too long to fit in the left column 
-*/
-.dl-horizontal dt {
-    white-space: normal;
-}
-
-/* Set width on the form input elements since they're 100% wide by default */
-input,
-select,
-textarea {
-    max-width: 280px;
-}
+/*클릭 되었을때 환경을 설정한다.*/
