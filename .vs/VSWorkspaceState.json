@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\CmsShoppingCart",
-    "\\CmsShoppingCart\\App_Data",
-    "\\CmsShoppingCart\\Controllers"
+    "\\CmsShoppingCart\\bin",
+    "\\CmsShoppingCart\\obj",
+    "\\CmsShoppingCart\\obj\\Debug"
   ],
-  "SelectedNode": "\\CmsShoppingCart\\App_Data\\CmsShoppingCart.mdf",
+  "SelectedNode": "\\CmsShoppingCart",
   "PreviewInSolutionExplorer": false
 }

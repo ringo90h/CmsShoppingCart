@@ -77,7 +77,6 @@ C:\Users\ringo\Source\Repos\ringo90h\CmsShoppingCart\CmsShoppingCart\obj\Debug\C
 C:\Users\ringo\Source\Repos\ringo90h\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csproj.CopyComplete
 C:\Users\ringo\Source\Repos\ringo90h\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.dll
 C:\Users\ringo\Source\Repos\ringo90h\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.pdb
-C:\Users\ringo\Source\Repos\ringo90h\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csprojAssemblyReference.cache
 C:\Users\ringo\Source\Repos\ringo90h\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.dll
 C:\Users\ringo\Source\Repos\ringo90h\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.SqlServer.dll
 C:\Users\ringo\Source\Repos\ringo90h\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.xml

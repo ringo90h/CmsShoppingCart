@@ -5,6 +5,23 @@
 
 .ui-state-highlight {
     border: 1px dashed #c00;
-    background-color : #CCC;
+    background-color : #4cff00;
 }
 /*클릭 되었을때 환경을 설정한다.*/
+
+div.new-cat{
+    margin-top: 30px;
+    position: relative;
+}
+
+span.ajax-text{
+    display: none;
+}
+
+table.sorting.categories td {
+    padding: 20px;
+}
+
+ajaxdivtd{
+    position: absolute;
+}
