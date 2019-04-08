@@ -9,19 +9,70 @@
 }
 /*클릭 되었을때 환경을 설정한다.*/
 
-div.new-cat{
+div.new-cat {
     margin-top: 30px;
     position: relative;
 }
 
-span.ajax-text{
+span.ajax-text {
     display: none;
 }
 
 table.sorting.categories td {
-    padding: 20px;
+    padding: 20px !important;
 }
 
-ajaxdivtd{
+.ajaxdivtd {
     position: absolute;
+}
+
+span.loader {
+    display: none;
+}
+
+span.ajaxmsg {
+    background: green;
+    color: white;
+    padding: 10px;
+    display: none;
+    position: absolute;
+    bottom: 0;
+}
+
+.ajaxcart {
+    position: relative;
+    top: 5px;
+}
+
+.ib {
+    display: inline-block !important;
+}
+
+ul.adminarea {
+    position: relative;
+    top: 15px;
+}
+
+.ajaxbg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: white;
+    display: none;
+    z-index: 1;
+}
+
+    .ajaxbg span {
+        position: absolute;
+        top: 30%;
+        left: 50%;
+    }
+
+form.paypalform {
+    position: absolute;
+    left: -2000px;
+}
+
+.row {
+    position: relative;
 }

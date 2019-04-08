@@ -82,3 +82,7 @@ C:\Users\ringo\Source\Repos\ringo90h\CmsShoppingCart\CmsShoppingCart\bin\EntityF
 C:\Users\ringo\Source\Repos\ringo90h\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.xml
 C:\Users\ringo\Source\Repos\ringo90h\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.SqlServer.xml
 C:\Users\ringo\Source\Repos\ringo90h\CmsShoppingCart\CmsShoppingCart\bin\RichTextEditor.dll
+C:\Users\ringo\Source\Repos\ringo90h\CmsShoppingCart\CmsShoppingCart\bin\PagedList.dll
+C:\Users\ringo\Source\Repos\ringo90h\CmsShoppingCart\CmsShoppingCart\bin\PagedList.Mvc.dll
+C:\Users\ringo\Source\Repos\ringo90h\CmsShoppingCart\CmsShoppingCart\bin\PagedList.xml
+C:\Users\ringo\Source\Repos\ringo90h\CmsShoppingCart\CmsShoppingCart\bin\PagedList.Mvc.xml

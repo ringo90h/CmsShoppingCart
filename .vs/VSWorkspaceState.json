@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CmsShoppingCart",
-    "\\CmsShoppingCart\\bin",
-    "\\CmsShoppingCart\\obj",
-    "\\CmsShoppingCart\\obj\\Debug"
+    "\\CmsShoppingCart"
   ],
-  "SelectedNode": "\\CmsShoppingCart",
   "PreviewInSolutionExplorer": false
 }

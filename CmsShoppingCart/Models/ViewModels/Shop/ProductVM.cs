@@ -10,6 +10,7 @@ namespace CmsShoppingCart.Models.ViewModels.Shop
 {
     public class ProductVM
     {
+        //이해어려움
         internal SelectList categories;
 
         public ProductVM()
@@ -38,9 +39,12 @@ namespace CmsShoppingCart.Models.ViewModels.Shop
         public decimal Price { get; set; }
         public string CategoryName { get; set; }
         [Required]
+        [Display(Name="Category")]
         public int CategoryId { get; set; }
         public string ImageName { get; set; }
 
+
+        //이해어려움
         public IEnumerable<SelectListItem> Categories { get; set; }
         public IEnumerable<string> GalleryImages { get; set; }
     }

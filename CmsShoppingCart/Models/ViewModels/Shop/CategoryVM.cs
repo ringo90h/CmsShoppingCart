@@ -1,6 +1,7 @@
 ﻿using CmsShoppingCart.Models.Data;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
@@ -21,6 +22,7 @@ namespace CmsShoppingCart.Models.ViewModels.Shop
             Sorting = row.Sorting;
         }
 
+        [Display(Name = "Category")]
         public int Id { get; set; }
         public String Name { get; set; }
         public String Slug { get; set; }
